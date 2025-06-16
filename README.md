@@ -1,4 +1,4 @@
-# Hi, I'm Bpnace 🐱
+# Hi, I'm Tarik 🐱
 ### Berlin-based Web Designer & Dev
 
 ![Banner](https://readme-typing-svg.demolab.com?font=Switzer&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=const+me+=+%22bpnace%22;Designer+%26+Code+Sorcerer;Minimalist.+Cat-friendly.+Marple+Approved)
