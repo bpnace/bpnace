@@ -1,6 +1,6 @@
 <!-- 🐱 Marple -->
 
-![Banner](https://readme-typing-svg.demolab.com?font=Switzer&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bpnace;Berlin-based+Web+Designer+%26+Dev.;Brutalist.+Cat-friendly.+Marple+Approved.)
+![Banner](https://readme-typing-svg.demolab.com?font=Switzer&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bpnace.;Berlin-based+Web+Designer+%26+Dev.;Brutalist.+Cat-friendly.+Marple+Approved.)
 
 ---
 
