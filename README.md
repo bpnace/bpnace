@@ -19,7 +19,7 @@ const bpnace = { location: "Berlin", role: "Freelance Web Designer & Dev" }
 ![Postgres](https://img.shields.io/badge/-Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-FF005D?style=flat-square&logo=openai&logoColor=white)
 
-![Meow Counter](https://img.shields.io/badge/Meows-5%20%F0%9F%90%BE-00BFFF?style=flat-square)
+![Meow Counter](https://img.shields.io/badge/Meows-55235126%20%F0%9F%90%BE-00BFFF?style=flat-square)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bpnace&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpnace&layout=compact&theme=tokyonight&hide_border=true)
