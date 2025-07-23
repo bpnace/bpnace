@@ -19,13 +19,13 @@
   </a>
   <a href="https://github.com/bpnace?tab=repositories">
     <img
-      src="https://badgen.net/badge/Repos/42/purple"
+      src="https://badgen.net/badge/Repos/14/purple"
       alt="Repositories count"
     />
   </a>
   <a href="https://github.com/bpnace?tab=followers">
     <img
-      src="https://badgen.net/badge/Followers/128/green"
+      src="https://badgen.net/badge/Followers/4/green"
       alt="Followers"
     />
   </a>
