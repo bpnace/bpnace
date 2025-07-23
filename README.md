@@ -1,44 +1,109 @@
 <!-- 🐱 Marple -->
+<!-- ─────────────────────────────────────────────────────────── -->
+<!--                       T A R I K + 🐱 Marple = BPNACE        -->
+<!-- ─────────────────────────────────────────────────────────── -->
 
-![Banner](https://readme-typing-svg.demolab.com?font=Switzer&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bpnace.;Berlin-based+Web+Designer+%26+Dev.;Brutalist.+Cat-friendly.+Marple+Approved.)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&center=true&vCenter=true&width=700&lines=Hello%2C%20I%20am%20Tarik!;Full-stack%20Developer%20from%20Berlin;Coffee%20in%20my%20veins%20%7C%20Code%20in%20my%20brains"
+    alt="Typing SVG"
+  />
+</p>
 
----
-
-```ts
-const bpnace = { location: "Berlin", role: "Freelance Web Designer & Dev" }
-```
-
----
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss)
-![Postgres](https://img.shields.io/badge/-Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-FF005D?style=flat-square&logo=openai&logoColor=white)
-
-![Meow Counter](https://img.shields.io/badge/Meows-525645%20%F0%9F%90%BE-00BFFF?style=flat-square)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bpnace&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpnace&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🚀 Currently Hacking On
-
-- Uncloud (a mindful messaging app)
-- AI agents building websites while I sleep
-- Festival-ready handmade fashion drops
-
----
-
-### 🎯 Catch Me At
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/stackwerkhaus)  
-📬 info@stackwerkhaus.de
+<p align="center">
+  <a href="https://github.com/bpnace">
+    <img
+      src="https://komarev.com/ghpvc/?username=bpnace&label=Profile%20Views&color=ff4c6b&style=flat-square"
+      alt="Profile views"
+    />
+  </a>
+  <a href="https://github.com/bpnace?tab=repositories">
+    <img
+      src="https://badgen.net/badge/Repos/42/purple"
+      alt="Repositories count"
+    />
+  </a>
+  <a href="https://github.com/bpnace?tab=followers">
+    <img
+      src="https://badgen.net/badge/Followers/128/green"
+      alt="Followers"
+    />
+  </a>
+</p>
 
 ---
 
-> **Think clean. Code crisp. Meow proud.**
+## 👨‍💻 About Me
+- Berlin-based developer with a passion for UX and performance
+- Always chasing that next framework eureka moment
+- Learning Japanese as a side quest and co-habitant to one indifferent cat
+- Fueled by espresso and an endless curiosity
+
+---
+
+## 🚀 Current Projects
+| Project         | Tech Stack                     | Status                 |
+| :-------------- | :----------------------------- | :--------------------- |
+| [Zynapse][zynapse]       | Next.js · Prisma · Tailwind    | Alpha release          |
+| [Travel Arranger][travel] | React Native · GraphQL · Expo  | Contributors welcome   |
+
+---
+
+## 🔧 Toolbox
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bpnace&show_icons=true&theme=dark&hide_border=true" height="400" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bpnace&layout=compact&theme=dark&hide_border=true" height="400" alt="Top Languages"/>
+</p>
+
+---
+
+## 📬 Let’s Connect
+- Portfolio   : [stackwerkhaus.de](https://www.stackwerkhaus.de)
+- Email       : info@stackwerkhaus.de
+- Instagram   : [@stackwerkhaus](https://instagram.com/stackwerkhaus)
+
+---
+
+> **Fun Fact**  
+> My cat ignores me until I open VS Code then demands my full attention. Coincidence or clever strategy  
+
+[zynapse]: https://github.com/bpnace/zynapse_v1.git
+[travel]:   https://github.com/bpnace/TravelArranger_V1.git
