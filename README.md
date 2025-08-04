@@ -34,7 +34,7 @@
 ---
 
 ## 👨‍💻 About Me
-- Berlin-based developer with a passion for UX and performance
+- Berlin-based developer with a passion for code and performance
 - Always chasing that next framework eureka moment
 - Learning Japanese as a side quest and co-habitant to one indifferent cat
 - Fueled by espresso and an endless curiosity
@@ -44,7 +44,7 @@
 ## 🚀 Current Projects
 | Project         | Tech Stack                     | Status                 |
 | :-------------- | :----------------------------- | :--------------------- |
-| [Codariq][codariq_v1]       | Next.js · Prisma · Tailwind    | Alpha release          |
+| [Codariq][codariq]     | Astro · Husky · Tailwind    | Alpha release          |
 | [Travel Arranger][travel] | React Native · GraphQL · Expo  | Contributors welcome   |
 
 ---
@@ -105,5 +105,5 @@
 > **Fun Fact**  
 > My cat ignores me until I open VS Code then demands my full attention. Coincidence or clever strategy  
 
-[zynapse]: https://github.com/bpnace/zynapse_v1.git
+[codariq]: https://github.com/bpnace/codariq_v1.git
 [travel]:   https://github.com/bpnace/TravelArranger_V1.git
