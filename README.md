@@ -44,7 +44,7 @@
 ## 🚀 Current Projects
 | Project         | Tech Stack                     | Status                 |
 | :-------------- | :----------------------------- | :--------------------- |
-| [Zynapse][zynapse]       | Next.js · Prisma · Tailwind    | Alpha release          |
+| [Codariq][codariq_v1]       | Next.js · Prisma · Tailwind    | Alpha release          |
 | [Travel Arranger][travel] | React Native · GraphQL · Expo  | Contributors welcome   |
 
 ---
