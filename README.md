@@ -19,7 +19,7 @@
   </a>
   <a href="https://github.com/bpnace?tab=repositories">
     <img
-      src="https://badgen.net/badge/Repos/14/purple"
+      src="https://badgen.net/badge/Repos/15/purple"
       alt="Repositories count"
     />
   </a>
