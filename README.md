@@ -25,7 +25,7 @@
   </a>
   <a href="https://github.com/bpnace?tab=followers">
     <img
-      src="https://badgen.net/badge/Followers/4/green"
+      src="https://badgen.net/badge/Followers/10/green"
       alt="Followers"
     />
   </a>
