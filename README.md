@@ -45,7 +45,7 @@
 | Project         | Tech Stack                     | Status                 |
 | :-------------- | :----------------------------- | :--------------------- |
 | [Codariq][codariq]     | Astro · Husky · Tailwind    | Alpha release          |
-| [Travel Arranger][travel] | React Native · GraphQL · Expo  | Contributors welcome   |
+| [STACKWERKHAUS] | HTML · JS · SCSS  | Contributors welcome   |
 
 ---
 
@@ -87,14 +87,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bpnace&show_icons=true&theme=dark&hide_border=true" height="400" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bpnace&layout=compact&theme=dark&hide_border=true" height="400" alt="Top Languages"/>
-</p>
-
----
-
 ## 📬 Let’s Connect
 - Portfolio   : [stackwerkhaus.de](https://www.stackwerkhaus.de)
 - Email       : info@stackwerkhaus.de
@@ -106,4 +98,4 @@
 > My cat ignores me until I open VS Code then demands my full attention. Coincidence or clever strategy  
 
 [codariq]: https://github.com/bpnace/codariq_v1.git
-[travel]:   https://github.com/bpnace/TravelArranger_V1.git
+[STACKWERKHAUS]:   https://github.com/bpnace/stackwerkhaus_V1.git
