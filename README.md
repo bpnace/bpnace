@@ -1,7 +1,15 @@
 <!-- 🐱 Marple -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Tarik.;Full-stack+Developer+from+Berlin.;Automation%2C+UX%2C+and+shipping+fast."
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Tarik%20%7C%20Full%20Stack%20Developer&fontAlignY=35&fontSize=38&desc=Berlin%20%7C%20Shipping%20products%20and%20automations&descAlignY=55"
+    alt="Header"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Tarik.;Full+stack+dev+from+Berlin.;I+build+apps+and+automations+that+ship."
     alt="Typing headline"
   />
 </p>
@@ -10,67 +18,76 @@
   <a href="https://github.com/bpnace">
     <img src="https://komarev.com/ghpvc/?username=bpnace&label=Profile%20Views&color=ff4c6b&style=flat-square" alt="Profile views" />
   </a>
-  <a href="https://github.com/bpnace?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-15-6f42c1?style=flat-square" alt="Repositories" />
-  </a>
-  <a href="https://github.com/bpnace?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-10-2ea043?style=flat-square" alt="Followers" />
-  </a>
   <a href="https://www.stackwerkhaus.de">
     <img src="https://img.shields.io/badge/Portfolio-stackwerkhaus.de-0ea5e9?style=flat-square" alt="Portfolio" />
   </a>
+  <a href="mailto:info@stackwerkhaus.de">
+    <img src="https://img.shields.io/badge/Email-info@stackwerkhaus.de-2ea043?style=flat-square" alt="Email" />
+  </a>
+  <a href="https://instagram.com/stackwerkhaus">
+    <img src="https://img.shields.io/badge/Instagram-@stackwerkhaus-c13584?style=flat-square" alt="Instagram" />
+  </a>
 </p>
 
----
+<h2>👋 About</h2>
 
-## About
-Berlin based full stack dev focused on shipping clean products fast.
-I build web apps, automation pipelines, and UI that does not fight the user.
-Side quest: Japanese. Roommate: one indifferent cat.
+Berlin based full stack developer focused on building fast, clean products.
+I like performance, good UX, and automations that save real time.
+Side quest: Japanese. Roommate: one indifferent cat named Marple.
 
-## Now
-- Building **Codariq**, practical automation for small teams
-- Shipping **Stackwerkhaus**, modern web experiences for founders and SMEs
-- Exploring agent workflows and AI assisted developer tooling
+<h2>🧠 Focus</h2>
 
----
+<p>
+  <b>Shipping</b> products end to end, from UI to backend to deployment.<br/>
+  <b>Automation</b> workflows with n8n and integrations.<br/>
+  <b>Polish</b> performance, accessibility, and clean DX.
+</p>
 
-## Highlights
-- Full stack delivery: frontend, backend, deployment
-- Automation: n8n, integrations, data flows
-- Product polish: performance, accessibility, UX
+<h2>🚀 Featured</h2>
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Codariq</h3>
+      Practical automation for small teams.<br/>
+      Astro, Tailwind, strong DX.<br/><br/>
+      <a href="https://github.com/bpnace/codariq_v1">Repo</a>
+    </td>
+    <td width="50%">
+      <h3>Travel Arranger</h3>
+      Mobile app direction with contributors welcome.<br/>
+      React Native, Expo, GraphQL.<br/><br/>
+      <a href="https://github.com/bpnace/TravelArranger_V1">Repo</a>
+    </td>
+  </tr>
+</table>
 
-## Featured Projects
-- **Codariq**  
-  Automation focused web product. Astro, Tailwind, strong DX.  
-  Repo: https://github.com/bpnace/codariq_v1
+<h2>🧰 Tech I Use</h2>
 
-- **Travel Arranger**  
-  Mobile app direction. React Native, Expo, GraphQL.  
-  Repo: https://github.com/bpnace/TravelArranger_V1
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,astro,svelte,html,css,tailwind,postgres,mysql,mongodb,docker,git,figma&perline=8"
+    alt="Tech icons"
+  />
+</p>
 
----
+<h2>📈 Activity</h2>
 
-## Toolbox
-**Core:** TypeScript, JavaScript, Node.js, HTML, CSS, SQL  
-**Web:** Astro, Next.js, React, Svelte, Tailwind  
-**Data:** Postgres, MySQL, MongoDB  
-**Automation:** n8n  
-**Dev:** Docker, Git, CI basics
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bpnace&radius=16&hide_border=true"
+    alt="Activity graph"
+  />
+</p>
 
----
+<h2>📬 Connect</h2>
 
-## Stats
-I removed the fragile public stats images to avoid random broken renders.
-If you want them back, self host the stats endpoint or use a GitHub Action that commits SVGs.
+<p>
+  Website: <a href="https://www.stackwerkhaus.de">stackwerkhaus.de</a><br/>
+  Email: <a href="mailto:info@stackwerkhaus.de">info@stackwerkhaus.de</a><br/>
+  Instagram: <a href="https://instagram.com/stackwerkhaus">@stackwerkhaus</a>
+</p>
 
----
-
-## Contact
-- Website: https://www.stackwerkhaus.de  
-- Email: info@stackwerkhaus.de  
-- Instagram: https://instagram.com/stackwerkhaus  
-
-> Fun fact: Marple ignores me until I open VS Code, then demands attention.
+<p>
+  <i>Fun fact:</i> Marple ignores me until I open VS Code, then demands attention.
+</p>
