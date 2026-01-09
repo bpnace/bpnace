@@ -1,101 +1,76 @@
 <!-- 🐱 Marple -->
-<!-- ─────────────────────────────────────────────────────────── -->
-<!--                       T A R I K + 🐱 Marple = BPNACE        -->
-<!-- ─────────────────────────────────────────────────────────── -->
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&center=true&vCenter=true&width=700&lines=Hello%2C%20I%20am%20Tarik!;Full-stack%20Developer%20from%20Berlin;Coffee%20in%20my%20veins%20%7C%20Code%20in%20my%20brains"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Tarik.;Full-stack+Developer+from+Berlin.;Automation%2C+UX%2C+and+shipping+fast."
+    alt="Typing headline"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/bpnace">
-    <img
-      src="https://komarev.com/ghpvc/?username=bpnace&label=Profile%20Views&color=ff4c6b&style=flat-square"
-      alt="Profile views"
-    />
+    <img src="https://komarev.com/ghpvc/?username=bpnace&label=Profile%20Views&color=ff4c6b&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/bpnace?tab=repositories">
-    <img
-      src="https://badgen.net/badge/Repos/15/purple"
-      alt="Repositories count"
-    />
+    <img src="https://img.shields.io/badge/Repos-15-6f42c1?style=flat-square" alt="Repositories" />
   </a>
   <a href="https://github.com/bpnace?tab=followers">
-    <img
-      src="https://badgen.net/badge/Followers/10/green"
-      alt="Followers"
-    />
+    <img src="https://img.shields.io/badge/Followers-10-2ea043?style=flat-square" alt="Followers" />
+  </a>
+  <a href="https://www.stackwerkhaus.de">
+    <img src="https://img.shields.io/badge/Portfolio-stackwerkhaus.de-0ea5e9?style=flat-square" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- Berlin-based developer with a passion for code and performance
-- Always chasing that next framework eureka moment
-- Learning Japanese as a side quest and co-habitant to one indifferent cat
-- Fueled by espresso and an endless curiosity
+## About
+Berlin based full stack dev focused on shipping clean products fast.
+I build web apps, automation pipelines, and UI that does not fight the user.
+Side quest: Japanese. Roommate: one indifferent cat.
+
+## Now
+- Building **Codariq**, practical automation for small teams
+- Shipping **Stackwerkhaus**, modern web experiences for founders and SMEs
+- Exploring agent workflows and AI assisted developer tooling
 
 ---
 
-## 🚀 Current Projects
-| Project         | Tech Stack                     | Status                 |
-| :-------------- | :----------------------------- | :--------------------- |
-| [Codariq][codariq]     | Astro · Husky · Tailwind    | Alpha release          |
-| [STACKWERKHAUS] | HTML · JS · SCSS  | Contributors welcome   |
+## Highlights
+- Full stack delivery: frontend, backend, deployment
+- Automation: n8n, integrations, data flows
+- Product polish: performance, accessibility, UX
 
 ---
 
-## 🔧 Toolbox
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-</p>
+## Featured Projects
+- **Codariq**  
+  Automation focused web product. Astro, Tailwind, strong DX.  
+  Repo: https://github.com/bpnace/codariq_v1
+
+- **Travel Arranger**  
+  Mobile app direction. React Native, Expo, GraphQL.  
+  Repo: https://github.com/bpnace/TravelArranger_V1
 
 ---
 
-## 📬 Let’s Connect
-- Portfolio   : [stackwerkhaus.de](https://www.stackwerkhaus.de)
-- Email       : info@stackwerkhaus.de
-- Instagram   : [@stackwerkhaus](https://instagram.com/stackwerkhaus)
+## Toolbox
+**Core:** TypeScript, JavaScript, Node.js, HTML, CSS, SQL  
+**Web:** Astro, Next.js, React, Svelte, Tailwind  
+**Data:** Postgres, MySQL, MongoDB  
+**Automation:** n8n  
+**Dev:** Docker, Git, CI basics
 
 ---
 
-> **Fun Fact**  
-> My cat ignores me until I open VS Code then demands my full attention. Coincidence or clever strategy  
+## Stats
+I removed the fragile public stats images to avoid random broken renders.
+If you want them back, self host the stats endpoint or use a GitHub Action that commits SVGs.
 
-[codariq]: https://github.com/bpnace/codariq_v1.git
-[STACKWERKHAUS]:   https://github.com/bpnace/stackwerkhaus_V1.git
+---
+
+## Contact
+- Website: https://www.stackwerkhaus.de  
+- Email: info@stackwerkhaus.de  
+- Instagram: https://instagram.com/stackwerkhaus  
+
+> Fun fact: Marple ignores me until I open VS Code, then demands attention.
