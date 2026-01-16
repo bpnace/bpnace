@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Tarik%20%7C%20Full%20Stack%20Developer&fontAlignY=35&fontSize=38&desc=Berlin%20%7C%20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Tarik%20%7C%20Full%20Stack%20Developer&fontAlignY=35&fontSize=38&desc=Berlin"
     alt="Header"
   />
 </p>
