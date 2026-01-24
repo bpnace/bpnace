@@ -89,5 +89,5 @@ Side quest: Japanese. Roommate: one indifferent cat named Marple.
 </p>
 
 <p>
-  <i>Fun fact:</i> Marple ignores me until I open VS Code, then demands attention.
+  <i>Fun fact:</i> My cat Marple ignores me until I open VS Code, then demands attention while puking on carpet.
 </p>
