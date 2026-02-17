@@ -15,13 +15,13 @@
   </a>
 </p>
 
-<h2>👋 About</h2>
+<h2>About</h2>
 
-Berlin based full stack developer focused on building fast, clean products.
-I like performance, good UX, and automations that save real time.
+Berlin based full stack developer focused on building fast, clean products.<br>
+I like performance, good UX, and automations that save real time.<br>
 Side quest: Japanese. Roommate: one indifferent cat named Marple.
 
-<h2>🧠 Focus</h2>
+<h2>I Focus on</h2>
 
 <p>
   <b>Shipping</b> products end to end, from UI to backend to deployment.<br/>
@@ -29,42 +29,40 @@ Side quest: Japanese. Roommate: one indifferent cat named Marple.
   <b>Polish</b> performance, accessibility, and clean DX.
 </p>
 
-<h2>🚀 Featured</h2>
+<h2>Current Projects</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Codariq</h3>
-      Practical automation for small teams.<br/>
-      Astro, Tailwind, strong DX.<br/><br/>
-      <a href="https://github.com/bpnace/codariq_v1">Repo</a>
-    </td>
-    <td width="50%">
-      <h3>Travel Arranger</h3>
-      Mobile app direction with contributors welcome.<br/>
-      React Native, Expo, GraphQL.<br/><br/>
-      <a href="https://github.com/bpnace/TravelArranger_V1">Repo</a>
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>🏗️ <a href="https://github.com/bpnace/stackwerkhaus_2026"><b>stackwerkhaus 2026</b></a> : Portfolio Page V2</li>
+  <li>🏠 <a href="https://github.com/bpnace/immopal"><b>immo-pal</b></a> : Immo project (Berlin focused)</li>
+  <li>🧘 <a href="https://github.com/bpnace/play_pilates"><b>play pilates</b></a> : Pilates project</li>
+  <li>🤖 <a href="https://github.com/bpnace/codariq_v1"><b>codariq.ai</b></a> : Astro landing page for Codariq</li>
+  <li>📚 <a href="https://github.com/bpnace/codariq_courses_v1"><b>codariq courses</b></a> : Courses repository</li>
+  <li>✈️ <a href="https://github.com/bpnace/TravelArranger_V1"><b>TravelArranger</b></a> : Travel app direction (contributors welcome)</li>
+</ul>
 
-<h2>🧰 Tech I Use</h2>
-
+<h2>Tech I Use</h2>
+</br>
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,astro,svelte,html,css,tailwind,postgres,mysql,mongodb,docker,git,figma&perline=8"
-    alt="Tech icons"
-  />
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square" />
+  <img alt="AI Claude" src="https://img.shields.io/badge/AI%20Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="CLI" src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Web" src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+</p><p align="center">
+-------------------------------------------------------
+</p>
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-1A1A1A?style=flat-square&logo=astro&logoColor=FF5D01" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<h2>📈 Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bpnace&radius=16&hide_border=true"
-    alt="Activity graph"
-  />
-</p>
 
 <h2>📬 Connect</h2>
 
