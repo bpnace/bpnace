@@ -1,20 +1,6 @@
 <!-- 🐱 Marple -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Tarik%20%-%20Full%20Stack%20Developer&fontAlignY=35&fontSize=38"
-    alt="Header"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+Tarik.;Full+stack+dev+from+Berlin.;I+build+apps+and+automations+that+ship."
-    alt="Typing headline"
-  />
-</p>
-
-<p align="center">
   <a href="https://github.com/bpnace">
     <img src="https://komarev.com/ghpvc/?username=bpnace&label=Profile%20Views&color=ff4c6b&style=flat-square" alt="Profile views" />
   </a>
