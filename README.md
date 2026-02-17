@@ -41,16 +41,17 @@ Side quest: Japanese. Roommate: one indifferent cat named Marple.
 </ul>
 
 <h2>Tech I Use</h2>
-</br>
 <p align="center">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square" />
   <img alt="AI Claude" src="https://img.shields.io/badge/AI%20Claude-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img alt="CLI" src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
   <img alt="Web" src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-</p><p align="center">
+</p>
+<p align="center">
 -------------------------------------------------------
 </p>
+<br>
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
