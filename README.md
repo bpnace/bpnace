@@ -26,7 +26,7 @@ Side quest: Japanese. Roommate: one indifferent cat named Marple.
 <p>
   <b>Shipping</b> products end to end, from UI to backend to deployment.<br/>
   <b>Automation</b> workflows with n8n and integrations.<br/>
-  <b>Polish</b> performance, accessibility, and clean DX.
+  <b>Polish</b> performance, accessibility, and clean UX/UI.
 </p>
 
 <h2>Current Projects</h2>
