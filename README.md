@@ -32,11 +32,10 @@ Side quest: Japanese. Roommate: one indifferent cat named Marple.
 <h2>Current Projects</h2>
 
 <ul>
-  <li>🏗️ <a href="https://github.com/bpnace/stackwerkhaus_2026"><b>stackwerkhaus 2026</b></a> : Portfolio Page V2</li>
+  <li>🏗️ <a href="https://github.com/bpnace/stackwerkhaus_2026"><b>stackwerkhaus 2026</b></a> : Portfolio</li>
   <li>🏠 <a href="https://github.com/bpnace/immopal"><b>immo-pal</b></a> : Immo project (Berlin focused)</li>
-  <li>🧘 <a href="https://github.com/bpnace/play_pilates"><b>play pilates</b></a> : Pilates project</li>
-  <li>🤖 <a href="https://github.com/bpnace/codariq_v1"><b>codariq.ai</b></a> : Astro landing page for Codariq</li>
-  <li>📚 <a href="https://github.com/bpnace/codariq_courses_v1"><b>codariq courses</b></a> : Courses repository</li>
+  <li>🧘 <a href="https://github.com/bpnace/play_pilates"><b>play pilates</b></a> : Pilates Stidio</li>
+  <li>🤖 <a href="https://github.com/bpnace/codariq_v1"><b>codariq.ai</b></a> : Astro Landing Page</li>
   <li>✈️ <a href="https://github.com/bpnace/TravelArranger_V1"><b>TravelArranger</b></a> : Travel app direction (contributors welcome)</li>
 </ul>
 
