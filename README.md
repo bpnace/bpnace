@@ -8,13 +8,15 @@
   <a href="mailto:info@stackwerkhaus.de">
     <img src="https://img.shields.io/badge/Email-info@stackwerkhaus.de-2ea043?style=flat-square" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Frontend%20%2F%20Full--stack%20roles-111827?style=flat-square" alt="Open to frontend and full-stack roles" />
+  <img src="https://img.shields.io/badge/Open%20to-Frontend%20%2F%20Full--stack%20%2F%20AI%20Automation-111827?style=flat-square" alt="Open to frontend, full-stack, and AI automation roles" />
+  <img src="https://img.shields.io/badge/Berlin%20%2F%20Remote-available-ff4c6b?style=flat-square" alt="Berlin or remote" />
 </p>
 
-<h1 align="center">Frontend / Full-stack Developer</h1>
+<h1 align="center">Tarik - Frontend / Full-stack Developer</h1>
 
 <p align="center">
-  Berlin based developer building production-ready web apps, AI automation workflows, and polished product interfaces with TypeScript, Next.js, Astro, n8n, and PostgreSQL.
+  Berlin based developer building production-ready product interfaces, full-stack web apps,
+  and practical AI automation workflows with TypeScript, Next.js, Astro, n8n, and PostgreSQL.
 </p>
 
 <p align="center">
@@ -23,23 +25,24 @@
   <img alt="Astro" src="https://img.shields.io/badge/Astro-1A1A1A?style=flat-square&logo=astro&logoColor=FF5D01" />
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-tested-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 </p>
 
 <h2>What I focus on</h2>
 
 <p>
-  <b>Frontend and product engineering</b><br/>
-  Fast, clean interfaces with strong UX, responsive layouts, and production-oriented implementation.
+  <b>Product-grade frontend engineering</b><br/>
+  Clean, responsive interfaces with strong UX, maintainable component structure, and implementation detail that holds up beyond a demo.
 </p>
 
 <p>
-  <b>Full-stack product builds</b><br/>
-  Web apps that connect frontend, backend, data, auth, forms, deployment, and testing into usable products.
+  <b>Full-stack product slices</b><br/>
+  Web apps that connect UI, backend logic, data, auth, forms, deployment, and tests into usable product flows.
 </p>
 
 <p>
-  <b>AI automation workflows</b><br/>
-  n8n and agent workflows that connect tools like Gmail, Calendar, Notion, Telegram, GitHub, and custom memory systems.
+  <b>AI automation and agent workflows</b><br/>
+  n8n and agent systems that connect tools like Gmail, Calendar, Notion, Telegram, GitHub, and custom memory layers.
 </p>
 
 <h2>Selected builds</h2>
@@ -47,23 +50,23 @@
 <table>
   <tr>
     <td><b><a href="https://github.com/bpnace/AI-Agent-Workflow">AI Agent Workflow</a></b></td>
-    <td>Public, sanitized n8n workflow for a personal AI operations agent with Telegram, Gmail, Calendar, Notion, GitHub memory, schedules, and validation.</td>
+    <td>Public, sanitized n8n workflow for a personal AI operations agent with Telegram, Gmail, Calendar, Notion, GitHub memory, schedules, and leak validation.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/bpnace/zynapse">Zynapse</a></b></td>
-    <td>AI campaign platform prototype with brand and creator workflows, TypeScript, structured validation, and production-oriented app architecture.</td>
+    <td>AI campaign platform prototype with brand intake, creator applications, typed validation, Supabase/Drizzle, and Playwright coverage.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/bpnace/codariq_v1">Codariq</a></b></td>
-    <td>Astro landing page and lead flow for an AI automation offer, including conversion-focused UX, testing, SEO, and deployment handling.</td>
+    <td>Astro landing page and lead flow for a DACH AI automation offer with quiz UX, SEO/legal pages, Vitest, and Playwright coverage.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/bpnace/stackwerkhaus_2026">Stackwerkhaus 2026</a></b></td>
-    <td>Production portfolio site built with Next.js, TypeScript, Tailwind, motion work, SEO metadata, and case-study structure.</td>
+    <td>Production portfolio site with case studies, GSAP motion, SEO metadata, sitemap generation, and responsive contact paths.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/bpnace/immopal">ImmoPal</a></b></td>
-    <td>Berlin-focused real estate project with product framing, web experience, and business-facing implementation.</td>
+    <td>Berlin-focused real estate website with static export, listings, valuation landing page, blog routes, and Apache deployment support.</td>
   </tr>
 </table>
 
@@ -106,7 +109,7 @@
 
 <p>
   Open to frontend, full-stack, and AI automation engineering roles in Berlin or remote.<br/>
-  I am strongest where product UI, implementation detail, and practical automation meet.
+  Strongest where product UI, implementation quality, and practical automation meet.
 </p>
 
 <h2>Contact</h2>
