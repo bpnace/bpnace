@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Frontend%20%2F%20Full--stack%20roles-111827?style=flat-square" alt="Open to frontend and full-stack roles" />
 </p>
 
-<h1 align="center">Tarik - Frontend / Full-stack Developer</h1>
+<h1 align="center">Frontend / Full-stack Developer</h1>
 
 <p align="center">
   Berlin based developer building production-ready web apps, AI automation workflows, and polished product interfaces with TypeScript, Next.js, Astro, n8n, and PostgreSQL.
