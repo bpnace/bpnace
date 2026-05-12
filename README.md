@@ -53,6 +53,10 @@
     <td>Public, sanitized n8n workflow for a personal AI operations agent with Telegram, Gmail, Calendar, Notion, GitHub memory, schedules, and leak validation.</td>
   </tr>
   <tr>
+    <td><b><a href="https://github.com/bpnace/Sales-ID">SalesID</a></b></td>
+    <td>AI sales copilot case for macOS with consent-gated screen capture, OCR, local STT/RAG/LLM services, and compact German live-call suggestions.</td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/bpnace/zynapse">Zynapse</a></b></td>
     <td>AI campaign platform prototype with brand intake, creator applications, typed validation, Supabase/Drizzle, and Playwright coverage.</td>
   </tr>
@@ -61,8 +65,8 @@
     <td>Astro landing page and lead flow for a DACH AI automation offer with quiz UX, SEO/legal pages, Vitest, and Playwright coverage.</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/bpnace/stackwerkhaus_2026">Stackwerkhaus 2026</a></b></td>
-    <td>Production portfolio site with case studies, GSAP motion, SEO metadata, sitemap generation, and responsive contact paths.</td>
+    <td><b><a href="https://github.com/bpnace/Portfolio-Rebuild">Portfolio Rebuild</a></b></td>
+    <td>Current Stackwerkhaus portfolio rebuild with Next.js 16, React 19, Drupal-backed blog publishing, project case studies, GSAP motion, and SEO primitives.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/bpnace/immopal">ImmoPal</a></b></td>
