@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Berlin%20%2F%20Remote-available-ff4c6b?style=flat-square" alt="Berlin or remote" />
 </p>
 
-<h1 align="center">Tarik - Frontend / Full-stack Developer</h1>
+<h1 align="center">Frontend- / Full-stack Developer</h1>
 
 <p align="center">
   Berlin based developer building production-ready product interfaces, full-stack web apps,
