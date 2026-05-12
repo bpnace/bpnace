@@ -49,6 +49,10 @@
 
 <table>
   <tr>
+    <td><b><a href="https://github.com/bpnace/Portfolio-Rebuild">Stackwerkhaus Website</a></b></td>
+    <td>Current production website for Stackwerkhaus with Next.js 16, React 19, Drupal-backed publishing, MDX case studies, GSAP motion, SEO primitives, and live deployment.</td>
+  </tr>
+  <tr>
     <td><b><a href="https://github.com/bpnace/AI-Agent-Workflow">AI Agent Workflow</a></b></td>
     <td>Public, sanitized n8n workflow for a personal AI operations agent with Telegram, Gmail, Calendar, Notion, GitHub memory, schedules, and leak validation.</td>
   </tr>
@@ -57,20 +61,20 @@
     <td>AI sales copilot case for macOS with consent-gated screen capture, OCR, local STT/RAG/LLM services, and compact German live-call suggestions.</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/bpnace/zynapse">Zynapse</a></b></td>
-    <td>AI campaign platform prototype with brand intake, creator applications, typed validation, Supabase/Drizzle, and Playwright coverage.</td>
-  </tr>
-  <tr>
     <td><b><a href="https://github.com/bpnace/codariq_v1">Codariq</a></b></td>
-    <td>Astro landing page and lead flow for a DACH AI automation offer with quiz UX, SEO/legal pages, Vitest, and Playwright coverage.</td>
+    <td>Live Astro landing page and lead flow for a DACH AI automation offer with package framing, quiz UX, SEO/legal pages, Vitest, and Playwright coverage.</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/bpnace/Portfolio-Rebuild">Portfolio Rebuild</a></b></td>
-    <td>Current Stackwerkhaus portfolio rebuild with Next.js 16, React 19, Drupal-backed blog publishing, project case studies, GSAP motion, and SEO primitives.</td>
+    <td><b><a href="https://github.com/bpnace/TravelArranger_V1">TravelArranger V1</a></b></td>
+    <td>Currently-building SvelteKit and Supabase travel-planning product with auth-aware routes, trip creation, packing and invite slices, and AI suggestion roadmap.</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/bpnace/immopal">ImmoPal</a></b></td>
-    <td>Berlin-focused real estate website with static export, listings, valuation landing page, blog routes, and Apache deployment support.</td>
+    <td><b><a href="https://github.com/bpnace/tandm">tandm</a></b></td>
+    <td>Contributor-friendly SwiftUI/Firebase iOS build log for freelance collectives, projects, tasks, invoices, and roadmap-driven MVP delivery.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/bpnace/curious">curious</a></b></td>
+    <td>Next.js UI/UX gallery prototype with masonry browsing, image detail composition, and intercepted modal routing.</td>
   </tr>
 </table>
 
