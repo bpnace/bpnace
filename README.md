@@ -49,7 +49,7 @@
 
 <table>
   <tr>
-    <td><b><a href="https://github.com/bpnace/Portfolio-Rebuild">Stackwerkhaus Portfolio</a></b></td>
+    <td><b><a href="https://github.com/bpnace/stackwerkhaus-2026">Stackwerkhaus Website</a></b></td>
     <td>Current production website for Stackwerkhaus with Next.js 16, React 19, Drupal-backed publishing, MDX case studies, GSAP motion, SEO primitives, and live deployment.</td>
   </tr>
   <tr>
