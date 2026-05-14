@@ -57,8 +57,16 @@
     <td>Public, sanitized n8n workflow for a personal AI operations agent with Telegram, Gmail, Calendar, Notion, GitHub memory, schedules, and leak validation.</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/bpnace/Sales-ID">SalesID</a></b></td>
-    <td>AI sales copilot case for macOS with consent-gated screen capture, OCR, local STT/RAG/LLM services, and compact German live-call suggestions.</td>
+    <td><b><a href="https://github.com/bpnace/Lead-Generator">Lead Generator</a></b></td>
+    <td>Sanitized n8n case study for an AI-assisted lead research and scoring system with enrichment, queueing, scoring, and outbound handoff architecture.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/bpnace/Documentation-RAG">Documentation RAG</a></b></td>
+    <td>Recruiter-friendly RAG automation case study covering documentation ingestion, scheduled re-indexing, chunking, embeddings, vector search, and assistant UX.</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/bpnace/Invoice-Sorting">Invoice Sorting</a></b></td>
+    <td>Sanitized invoice and receipt automation case study with chat/form intake, AI extraction, validation, archive storage, accounting handoff, and confirmation flow.</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/bpnace/codariq_v1">Codariq</a></b></td>
@@ -71,10 +79,6 @@
   <tr>
     <td><b><a href="https://github.com/bpnace/tandm">tandm</a></b></td>
     <td>Contributor-friendly SwiftUI/Firebase iOS build log for freelance collectives, projects, tasks, invoices, and roadmap-driven MVP delivery.</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/bpnace/curious">curious</a></b></td>
-    <td>Next.js UI/UX gallery prototype with masonry browsing, image detail composition, and intercepted modal routing.</td>
   </tr>
 </table>
 
